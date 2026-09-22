@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="Segoe UI, Malgun Gothic, Arial, sans-serif">
+<title>항온항습 챔버 (단순화한 일러스트)</title>
+<rect x="60" y="10" width="280" height="236" rx="8" fill="#eef2f8" stroke="#2d3548" stroke-width="2.5"/>
+<rect x="76" y="30" width="180" height="200" rx="6" fill="#fff" stroke="#2d3548" stroke-width="2.5"/>
+<rect x="100" y="54" width="132" height="120" rx="4" fill="#dbe7fb" stroke="#2d3548" stroke-width="1.5"/>
+<rect x="136" y="126" width="60" height="30" rx="3" fill="#fff" stroke="#1f5fd1" stroke-width="2"/>
+<text x="166" y="146" font-size="12" font-weight="700" fill="#1f5fd1" text-anchor="middle">EUT</text>
+<path d="M104 160 H228" stroke="#2d3548" stroke-width="2"/>
+<rect x="244" y="110" width="8" height="40" rx="3" fill="#2d3548"/>
+<!-- 조작부 -->
+<rect x="268" y="30" width="60" height="44" rx="3" fill="#fff" stroke="#2d3548" stroke-width="2"/>
+<text x="298" y="48" font-size="12" font-weight="700" fill="#d9731a" text-anchor="middle">-20 °C</text>
+<text x="298" y="66" font-size="11" fill="#1f5fd1" text-anchor="middle">RH --%</text>
+<g fill="#fff" stroke="#2d3548" stroke-width="1.5"><rect x="268" y="82" width="26" height="14" rx="2"/><rect x="302" y="82" width="26" height="14" rx="2"/></g>
+<!-- 케이블 포트 -->
+<circle cx="298" cy="140" r="16" fill="#fff" stroke="#2d3548" stroke-width="2.5"/>
+<path d="M298 140 H390" stroke="#d9731a" stroke-width="3"/>
+<text x="298" y="176" font-size="11" fill="#2d3548" text-anchor="middle">케이블</text><text x="298" y="190" font-size="11" fill="#2d3548" text-anchor="middle">관통 포트</text>
+<text x="366" y="130" font-size="11" fill="#d9731a" text-anchor="middle">RF</text>
+<text x="166" y="200" font-size="13" font-weight="700" fill="#2d3548" text-anchor="middle">예: -20 ~ +55 °C</text>
+<text x="166" y="218" font-size="11" fill="#2d3548" text-anchor="middle">(시험 규격에 따름)</text>
+</svg>

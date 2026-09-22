@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="Segoe UI, Malgun Gothic, Arial, sans-serif">
+<title>반무반사실(SAC) 단면 (단순화한 일러스트)</title>
+<rect x="10" y="14" width="380" height="206" fill="#fff" stroke="#2d3548" stroke-width="4"/>
+<!-- 흡수체 (천장/벽) -->
+<g fill="#1f5fd1" fill-opacity="0.18" stroke="#1f5fd1" stroke-width="1">
+<path d="M14 18 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 l10 22 l10 -22 L386 18 z"/>
+<path d="M14 40 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 z"/>
+<path d="M386 40 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 l-22 10 l22 10 z"/>
+</g>
+<!-- 금속 바닥 (반사면) -->
+<rect x="10" y="212" width="380" height="8" fill="#2d3548"/>
+<text x="200" y="240" font-size="12" fill="#2d3548" text-anchor="middle">금속 바닥 = 반사면 (Ground plane)</text>
+<!-- 턴테이블 + EUT -->
+<rect x="64" y="172" width="44" height="30" fill="#eef2f8" stroke="#2d3548" stroke-width="2"/>
+<text x="86" y="192" font-size="12" font-weight="700" fill="#2d3548" text-anchor="middle">EUT</text>
+<rect x="50" y="202" width="72" height="10" rx="2" fill="#d9731a"/>
+<text x="86" y="164" font-size="11" fill="#2d3548" text-anchor="middle">턴테이블</text>
+<!-- 마스트 + 안테나 -->
+<path d="M320 90 V212" stroke="#2d3548" stroke-width="5"/>
+<rect x="306" y="198" width="28" height="14" fill="#2d3548"/>
+<path d="M322 110 L296 100 M322 110 L296 120 M296 88 V132" stroke="#1f5fd1" stroke-width="2.5" fill="none"/>
+<path d="M334 80 V150 M330 84 l4 -6 l4 6 M330 146 l4 6 l4 -6" stroke="#d9731a" stroke-width="2" fill="none"/>
+<text x="352" y="118" font-size="11" fill="#2d3548" text-anchor="middle">1–4 m</text>
+<!-- 경로 -->
+<path d="M108 180 L296 110" stroke="#1f5fd1" stroke-width="1.5" stroke-dasharray="5 4"/>
+<path d="M108 186 L205 210 L296 120" stroke="#d9731a" stroke-width="1.5" stroke-dasharray="5 4" fill="none"/>
+<text x="200" y="130" font-size="12" fill="#1f5fd1" text-anchor="middle">직접파</text>
+<text x="215" y="196" font-size="12" fill="#d9731a" text-anchor="middle">바닥 반사파</text>
+<path d="M86 60 H320" stroke="#2d3548" stroke-width="1.2"/>
+<path d="M86 54 v12 M320 54 v12" stroke="#2d3548" stroke-width="1.2"/>
+<text x="203" y="78" font-size="13" font-weight="700" fill="#2d3548" text-anchor="middle">측정 거리 3 m / 10 m</text>
+</svg>

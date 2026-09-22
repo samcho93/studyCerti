@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="Segoe UI, Malgun Gothic, Arial, sans-serif">
+<title>더블리지 혼 안테나 (단순화한 일러스트)</title>
+<!-- 옆모습 -->
+<path d="M40 110 L120 96 L230 30 L230 190 L120 124 Z" fill="#eef2f8" stroke="#2d3548" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M120 96 L230 30 M120 124 L230 190" stroke="#2d3548" stroke-width="2.5"/>
+<path d="M124 106 C 170 100, 200 70, 228 60" fill="none" stroke="#d9731a" stroke-width="4"/>
+<path d="M124 114 C 170 120, 200 150, 228 160" fill="none" stroke="#d9731a" stroke-width="4"/>
+<rect x="18" y="100" width="22" height="20" fill="#2d3548"/>
+<text x="130" y="220" font-size="13" fill="#2d3548" text-anchor="middle">옆에서 본 모습 (주황: 리지)</text>
+<!-- 정면 개구 -->
+<rect x="270" y="50" width="110" height="110" rx="4" fill="#eef2f8" stroke="#2d3548" stroke-width="2.5"/>
+<path d="M270 50 L318 100 M380 50 L332 100 M270 160 L318 120 M380 160 L332 120" stroke="#2d3548" stroke-width="1.5"/>
+<path d="M312 50 C 318 80, 320 96, 320 104 L 330 104 C 330 96, 332 80, 338 50 Z" fill="#d9731a"/>
+<path d="M312 160 C 318 130, 320 118, 320 112 L 330 112 C 330 118, 332 130, 338 160 Z" fill="#d9731a"/>
+<text x="325" y="190" font-size="13" fill="#2d3548" text-anchor="middle">정면 개구부</text>
+<text x="200" y="248" font-size="14" font-weight="700" fill="#1f5fd1" text-anchor="middle">DRG Horn · 예: 1 – 18 GHz</text>
+</svg>

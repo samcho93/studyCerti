@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="Segoe UI, Malgun Gothic, Arial, sans-serif">
+<title>고정 감쇠기 (단순화한 일러스트)</title>
+<!-- 고출력 감쇠기 (방열핀) -->
+<rect x="26" y="40" width="30" height="40" rx="3" fill="#eef2f8" stroke="#2d3548" stroke-width="2"/>
+<rect x="12" y="50" width="14" height="20" fill="#2d3548"/>
+<g fill="#fff" stroke="#2d3548" stroke-width="2">
+<rect x="56" y="22" width="12" height="76"/><rect x="72" y="22" width="12" height="76"/><rect x="88" y="22" width="12" height="76"/><rect x="104" y="22" width="12" height="76"/><rect x="120" y="22" width="12" height="76"/><rect x="136" y="22" width="12" height="76"/><rect x="152" y="22" width="12" height="76"/><rect x="168" y="22" width="12" height="76"/><rect x="184" y="22" width="12" height="76"/>
+</g>
+<rect x="196" y="40" width="30" height="40" rx="3" fill="#eef2f8" stroke="#2d3548" stroke-width="2"/>
+<rect x="226" y="50" width="14" height="20" fill="#2d3548"/>
+<text x="126" y="122" font-size="15" font-weight="700" fill="#2d3548" text-anchor="middle">고출력 감쇠기</text>
+<text x="126" y="140" font-size="13" fill="#1f5fd1" text-anchor="middle">30 dB · 50 W · N(m)-N(f)</text>
+<!-- 소형 SMA 감쇠기 -->
+<rect x="60" y="180" width="26" height="22" rx="2" fill="#eef2f8" stroke="#2d3548" stroke-width="2"/>
+<rect x="86" y="172" width="80" height="38" rx="6" fill="#fff" stroke="#2d3548" stroke-width="2.5"/>
+<rect x="166" y="180" width="26" height="22" rx="2" fill="#eef2f8" stroke="#2d3548" stroke-width="2"/>
+<text x="126" y="196" font-size="14" font-weight="700" fill="#1f5fd1" text-anchor="middle">10 dB</text>
+<text x="126" y="232" font-size="13" fill="#2d3548" text-anchor="middle">소형 SMA 감쇠기 (2 W)</text>
+<!-- 기호 -->
+<rect x="270" y="60" width="110" height="60" rx="6" fill="#fff" stroke="#2d3548" stroke-width="2"/>
+<path d="M250 90 h20 M380 90 h16" stroke="#2d3548" stroke-width="2"/>
+<path d="M285 90 l8 -12 l8 24 l8 -24 l8 24 l8 -24 l8 24 l8 -12 h12" fill="none" stroke="#d9731a" stroke-width="2"/>
+<text x="325" y="140" font-size="13" fill="#2d3548" text-anchor="middle">회로 기호</text>
+<rect x="262" y="168" width="126" height="56" rx="6" fill="#eef2f8" stroke="#1f5fd1" stroke-width="1.5"/>
+<text x="325" y="190" font-size="13" fill="#2d3548" text-anchor="middle">+33 dBm 입력</text>
+<text x="325" y="212" font-size="13" font-weight="700" fill="#1f5fd1" text-anchor="middle">→ 30 dB → +3 dBm</text>
+</svg>

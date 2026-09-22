@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="Segoe UI, Malgun Gothic, Arial, sans-serif">
+<title>ESD 시뮬레이터(정전기 건) (단순화한 일러스트)</title>
+<!-- 건 본체 -->
+<path d="M60 80 H250 a20 20 0 0 1 20 20 v20 a20 20 0 0 1 -20 20 H170 L150 220 H100 L116 140 H60 a20 20 0 0 1 -20 -20 v-20 a20 20 0 0 1 20 -20 Z" fill="#eef2f8" stroke="#2d3548" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="70" y="94" width="70" height="32" rx="4" fill="#fff" stroke="#2d3548" stroke-width="2"/>
+<text x="105" y="116" font-size="15" font-weight="700" fill="#1f5fd1" text-anchor="middle">±8 kV</text>
+<path d="M150 150 q 10 20 0 40" fill="none" stroke="#2d3548" stroke-width="2"/>
+<rect x="152" y="150" width="14" height="30" rx="4" fill="#d9731a"/>
+<text x="176" y="178" font-size="11" fill="#2d3548">트리거</text>
+<!-- 방전 팁 -->
+<path d="M270 100 L330 106 L330 114 L270 120 Z" fill="#fff" stroke="#2d3548" stroke-width="2"/>
+<circle cx="340" cy="110" r="9" fill="#fff" stroke="#2d3548" stroke-width="2.5"/>
+<path d="M330 106 L352 104 L356 110 L352 116 L330 114" fill="none" stroke="#2d3548" stroke-width="0"/>
+<text x="340" y="80" font-size="12" fill="#2d3548" text-anchor="middle">기중 방전: 둥근 팁</text>
+<path d="M300 150 L346 156 L346 162 L300 168 Z" fill="#fff" stroke="#2d3548" stroke-width="2"/>
+<path d="M346 156 L370 159 L346 162" fill="#2d3548"/>
+<text x="330" y="192" font-size="12" fill="#2d3548" text-anchor="middle">접촉 방전: 뾰족 팁</text>
+<!-- 방전 리턴 케이블 -->
+<path d="M125 220 C 120 250, 40 250, 30 220" fill="none" stroke="#1d8a55" stroke-width="3"/>
+<rect x="20" y="210" width="20" height="12" fill="#1d8a55"/>
+<text x="60" y="198" font-size="11" fill="#1d8a55" text-anchor="middle">접지 리턴 케이블</text>
+<!-- 번개 -->
+<path d="M370 96 l-8 12 h8 l-6 12" fill="none" stroke="#d9731a" stroke-width="2.5"/>
+<text x="200" y="40" font-size="14" font-weight="700" fill="#2d3548" text-anchor="middle">IEC 61000-4-2 (KS C 9610-4-2)</text>
+</svg>

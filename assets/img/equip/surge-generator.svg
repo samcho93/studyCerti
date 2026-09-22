@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="Segoe UI, Malgun Gothic, Arial, sans-serif">
+<title>서지·EFT 발생기 (단순화한 정면 일러스트)</title>
+<rect x="8" y="14" width="384" height="226" rx="10" fill="#eef2f8" stroke="#2d3548" stroke-width="2.5"/>
+<rect x="24" y="30" width="190" height="110" rx="4" fill="#fff" stroke="#2d3548" stroke-width="2"/>
+<text x="36" y="52" font-size="12" fill="#2d3548">SURGE 1.2/50 µs</text>
+<path d="M36 124 L50 124 C 54 70, 58 62, 66 62 C 90 64, 140 100, 200 118" fill="none" stroke="#1f5fd1" stroke-width="2.5"/>
+<text x="200" y="76" font-size="18" font-weight="700" fill="#1f5fd1" text-anchor="end">±2 kV</text>
+<text x="200" y="98" font-size="12" fill="#2d3548" text-anchor="end">L-N · 0°/90°/270°</text>
+<g fill="#fff" stroke="#2d3548" stroke-width="1.5">
+<rect x="230" y="34" width="46" height="22" rx="3"/><rect x="284" y="34" width="46" height="22" rx="3"/>
+<rect x="230" y="62" width="46" height="22" rx="3"/><rect x="284" y="62" width="46" height="22" rx="3"/>
+</g>
+<g font-size="11" font-weight="700" fill="#2d3548" text-anchor="middle"><text x="253" y="49">SURGE</text><text x="307" y="49">EFT</text><text x="253" y="77">DIPS</text><text x="307" y="77">CDN</text></g>
+<rect x="340" y="34" width="40" height="50" rx="4" fill="#d9731a"/><text x="360" y="56" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">STOP</text><text x="360" y="72" font-size="10" fill="#fff" text-anchor="middle">비상</text>
+<!-- EUT 전원 출력 -->
+<rect x="24" y="160" width="120" height="64" rx="6" fill="#fff" stroke="#2d3548" stroke-width="2"/>
+<circle cx="62" cy="192" r="18" fill="#eef2f8" stroke="#2d3548" stroke-width="1.5"/><circle cx="55" cy="192" r="3" fill="#2d3548"/><circle cx="69" cy="192" r="3" fill="#2d3548"/>
+<text x="116" y="188" font-size="12" font-weight="700" fill="#2d3548" text-anchor="middle">EUT</text><text x="116" y="204" font-size="11" fill="#2d3548" text-anchor="middle">POWER</text>
+<!-- 고전압 출력 단자 -->
+<g fill="#fff" stroke="#d9731a" stroke-width="3"><circle cx="190" cy="192" r="12"/><circle cx="236" cy="192" r="12"/></g>
+<text x="213" y="226" font-size="11" font-weight="700" fill="#d9731a" text-anchor="middle">HV OUT</text>
+<path d="M272 176 l20 -30 l20 30 z" fill="#fff" stroke="#d9731a" stroke-width="2.5"/>
+<text x="292" y="172" font-size="16" font-weight="700" fill="#d9731a" text-anchor="middle">!</text>
+<text x="344" y="200" font-size="12" fill="#2d3548" text-anchor="middle">고전압</text><text x="344" y="216" font-size="12" fill="#2d3548" text-anchor="middle">감전 주의</text>
+<circle cx="292" cy="206" r="8" fill="#fff" stroke="#1d8a55" stroke-width="2"/>
+<text x="292" y="228" font-size="10" fill="#1d8a55" text-anchor="middle">PE</text>
+</svg>

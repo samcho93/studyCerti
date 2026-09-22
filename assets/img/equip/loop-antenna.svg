@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="Segoe UI, Malgun Gothic, Arial, sans-serif">
+<title>능동형 루프 안테나 (단순화한 일러스트)</title>
+<circle cx="200" cy="96" r="78" fill="none" stroke="#2d3548" stroke-width="9"/>
+<circle cx="200" cy="96" r="78" fill="none" stroke="#1f5fd1" stroke-width="3"/>
+<rect x="190" y="12" width="20" height="10" fill="#fff" stroke="#2d3548" stroke-width="1.5"/>
+<text x="228" y="16" font-size="11" fill="#2d3548">차폐 갭</text>
+<rect x="170" y="172" width="60" height="40" rx="4" fill="#eef2f8" stroke="#2d3548" stroke-width="2.5"/>
+<text x="200" y="197" font-size="12" font-weight="700" fill="#2d3548" text-anchor="middle">AMP</text>
+<rect x="150" y="212" width="100" height="14" rx="3" fill="#2d3548"/>
+<circle cx="240" cy="192" r="6" fill="#fff" stroke="#2d3548" stroke-width="2"/>
+<path d="M246 192 H300" stroke="#d9731a" stroke-width="3"/>
+<text x="304" y="196" font-size="12" fill="#2d3548">→ 수신기</text>
+<path d="M200 96 m-30 0 a30 12 0 1 0 60 0 a30 12 0 1 0 -60 0" fill="none" stroke="#d9731a" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="200" y="100" font-size="11" fill="#d9731a" text-anchor="middle">H 자계</text>
+<text x="60" y="80" font-size="14" font-weight="700" fill="#1f5fd1" text-anchor="middle">Loop</text>
+<text x="60" y="100" font-size="12" fill="#2d3548" text-anchor="middle">9 kHz – 30 MHz</text>
+<text x="340" y="80" font-size="12" fill="#2d3548" text-anchor="middle">자계 성분 측정</text>
+<text x="340" y="98" font-size="12" fill="#2d3548" text-anchor="middle">(dBµA/m 등)</text>
+<text x="200" y="250" font-size="12" fill="#2d3548" text-anchor="middle">배터리 내장 전치증폭기(능동형)</text>
+</svg>
