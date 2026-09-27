@@ -3,3 +3,6 @@ node_modules/
 Thumbs.db
 *.log
 .claude/
+
+# Claude Code project notes (keep local only)
+CLAUDE.md
